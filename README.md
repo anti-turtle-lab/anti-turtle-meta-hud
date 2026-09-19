@@ -6,6 +6,8 @@
 
 > 🥈 **2nd Place — OpenAI × NuCode Hackathon** · built by the TOYTHON Anti Turtle team
 
+[Watch the TOYTHON hackathon pitch on YouTube](https://youtu.be/Wld_6LIIqIw)
+
 [Watch the narrated project demo on YouTube](https://youtu.be/k-gM6kyfsp4)
 
 Open-source posture-coaching prototype for Meta Display glasses, a browser camera HUD, and native macOS notifications and menu-bar status.
@@ -174,10 +176,12 @@ The current milestone is the public [`v0.1.1`](https://github.com/anti-turtle-la
 
 The original TOYTHON Anti Turtle hackathon team (🥈 2nd place, OpenAI × NuCode Hackathon) was:
 
-- 구철회
-- 박상준
-- 홍주영
-- 이영권 (`Youngkwon-Lee`)
+| Member | Role |
+| --- | --- |
+| 홍주영 (Skyler Hong) | Product manager, hardware design, pitch deck and presentation |
+| 이영권 (Youngkwon Lee, `Youngkwon-Lee`) | Hardware design, firmware development (Arduino), software development |
+| 구철회 (Chulhoe Koo) | Software development, product planning, demo video |
+| 박상준 (Sang Joon Park) | Demo video, software development, judging-criteria alignment |
 
 This extracted open-source repository is maintained under the `anti-turtle-lab` GitHub organization (lead maintainer `Youngkwon-Lee`). Its Git history may not represent design, hardware, operations, presentation, and other non-code contributions made during the hackathon.
 

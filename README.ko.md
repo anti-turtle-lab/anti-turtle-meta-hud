@@ -6,6 +6,8 @@
 
 > 🥈 **OpenAI × NuCode 해커톤 2위** · TOYTHON 안티터틀 팀 공동 산출물
 
+[TOYTHON 해커톤 발표 영상을 YouTube에서 보기](https://youtu.be/Wld_6LIIqIw)
+
 [영문 음성 프로젝트 데모를 YouTube에서 보기](https://youtu.be/k-gM6kyfsp4)
 
 Meta Display 글래스용 자세 코칭 HUD, 브라우저 카메라 HUD, macOS 알림과 메뉴 막대 상태 표시를 포함한 오픈소스 프로토타입입니다.
@@ -174,10 +176,12 @@ UPSTASH_REDIS_REST_TOKEN
 
 초기 TOYTHON 안티터틀 해커톤 팀(🥈 OpenAI × NuCode 해커톤 2위)은 다음 네 명입니다.
 
-- 구철회
-- 박상준
-- 홍주영
-- 이영권 (`Youngkwon-Lee`)
+| 팀원 | 역할 |
+| --- | --- |
+| 홍주영 (Skyler Hong) | PM, 하드웨어 설계, 발표 및 발표자료 제작 |
+| 이영권 (Youngkwon Lee, `Youngkwon-Lee`) | 하드웨어 설계, 펌웨어 개발(Arduino), SW 개발 |
+| 구철회 (Chulhoe Koo) | SW 개발, 서비스 기획, 데모 영상 제작 |
+| 박상준 (Sang Joon Park) | 데모 영상 제작, SW 개발, 심사 기준 대응 |
 
 현재 분리된 오픈소스 저장소는 `anti-turtle-lab` GitHub organization에서 유지관리하고 있습니다 (주 관리자 `Youngkwon-Lee`). 이 저장소의 Git 기록에는 해커톤 과정에서 이루어진 디자인, 하드웨어, 운영, 발표 등 코드 외 기여가 모두 나타나지 않을 수 있습니다.
 
